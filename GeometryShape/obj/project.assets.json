@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ОК ФКС\\pr4\\GeometryShape\\GeometryShape.csproj",
+      "projectUniqueName": "D:\\ОК ФКС\\pract4\\GeometryShape\\GeometryShape.csproj",
       "projectName": "GeometryShape",
-      "projectPath": "D:\\ОК ФКС\\pr4\\GeometryShape\\GeometryShape.csproj",
+      "projectPath": "D:\\ОК ФКС\\pract4\\GeometryShape\\GeometryShape.csproj",
       "packagesPath": "C:\\Users\\if921\\.nuget\\packages\\",
-      "outputPath": "D:\\ОК ФКС\\pr4\\GeometryShape\\obj\\",
+      "outputPath": "D:\\ОК ФКС\\pract4\\GeometryShape\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\if921\\AppData\\Roaming\\NuGet\\NuGet.Config",

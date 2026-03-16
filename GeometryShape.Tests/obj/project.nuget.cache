@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jm7XvTNnEH4=",
+  "dgSpecHash": "ZXmJ55aRRgg=",
   "success": true,
-  "projectFilePath": "D:\\ОК ФКС\\pr4\\GeometryShape.Tests\\GeometryShape.Tests.csproj",
+  "projectFilePath": "D:\\ОК ФКС\\pract4\\GeometryShape.Tests\\GeometryShape.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\if921\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\if921\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",
