@@ -935,11 +935,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ОК ФКС\\pr4\\GeometryShape.Tests\\GeometryShape.Tests.csproj",
+      "projectUniqueName": "D:\\ОК ФКС\\pract4\\GeometryShape.Tests\\GeometryShape.Tests.csproj",
       "projectName": "GeometryShape.Tests",
-      "projectPath": "D:\\ОК ФКС\\pr4\\GeometryShape.Tests\\GeometryShape.Tests.csproj",
+      "projectPath": "D:\\ОК ФКС\\pract4\\GeometryShape.Tests\\GeometryShape.Tests.csproj",
       "packagesPath": "C:\\Users\\if921\\.nuget\\packages\\",
-      "outputPath": "D:\\ОК ФКС\\pr4\\GeometryShape.Tests\\obj\\",
+      "outputPath": "D:\\ОК ФКС\\pract4\\GeometryShape.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\if921\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -956,8 +956,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\ОК ФКС\\pr4\\GeometryShape\\GeometryShape.csproj": {
-              "projectPath": "D:\\ОК ФКС\\pr4\\GeometryShape\\GeometryShape.csproj"
+            "D:\\ОК ФКС\\pract4\\GeometryShape\\GeometryShape.csproj": {
+              "projectPath": "D:\\ОК ФКС\\pract4\\GeometryShape\\GeometryShape.csproj"
             }
           }
         }
